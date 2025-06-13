@@ -27,7 +27,8 @@ AND(
 
 ## Description d'une machine Combinations
 ![[photo description combinations.png]]
-![](photo description combinations.png)
+![](attachments/photo description combinations.png)
+
 On peut aussi avoir le descriptif d'une machine en cliquant dessus
 
 On à donc:
