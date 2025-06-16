@@ -28,7 +28,6 @@ AND(
  On peut également voir leurs [[Statut]] (sold, reserved, ect...)
 
 ## Description d'une machine Combinations
-![[photo description combinations.png]]
 
 ![](photodescriptioncombinations.png)
 
