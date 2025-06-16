@@ -1,8 +1,11 @@
 # Schéma explicatif de Cultivator dans appsheet
-![[Schéma chemin cultivator.png]]
+![[Schemachemincultivator.png]]
+![](schemachemincombinations.png)
 
 # Vue Cultivator dans appsheet
-![[page d'accueil photo.png]]
+![[pagedaccueilphoto.png]]
+![](pagedaccueilphoto.png)
+
 
 ~~~ javascript
 AND(
@@ -25,7 +28,8 @@ On peut également voir leurs [[Statut]] (sold, reserved, ect...)
  
 
 ## Description d'une machine Cultivator
-![[description d'une machine.png]]
+
+![](descriptiondunemachine.png)
 On à donc:
 - La charge
 - Le numéro de référence
@@ -40,7 +44,7 @@ Cette liste correspond à la table Google sheets Bestandslist Aktuel.
 
 Nous avons également un bandeau en haut de la description
 
-![[petit bandeau de la description.png]]
+![](petitbandeaudeladescription.png)
 
 On y retrouve:
 - La charge (509077)
