@@ -2,7 +2,7 @@
 ![](datatransfer.png)
 
 Ce menu sert à envoyer une machine par mail.
-### <u>Ici on peut voir que l'on a différent champs que l'on peut remplir:</u>
+# <u>Ici on peut voir que l'on a différent champs que l'on peut remplir:</u>
 
 - Your name (votre nom)
 - Email address sender (adresse de la personne qui envoie)
@@ -11,19 +11,19 @@ Ce menu sert à envoyer une machine par mail.
 - Freight cost (coût de frais)
 - Comment (commentaire)
 
-### <u>Code pour le nom</u>
+## <u>Code pour le nom</u>
 ~~~
 IF(USERSETTINGS(Sprache) = "Englisch", "Your name", 
 IF(USERSETTINGS(Sprache) = "Deutsch", "Ihr Name", "Your name"))
 ~~~
-### <u>Code pour Email address sender </u>
+## <u>Code pour Email address sender </u>
 ~~~
 USERSETTINGS(Email)
 ~~~
 
 Cette expression permet de **récupérer l’adresse e-mail choisie par l’utilisateur** dans les paramètres de l’application.  
 
-### <u>Code pour la date de production</u>
+## <u>Code pour la date de production</u>
 
 ~~~
 TEXT ([Machine].[Production date / Produktions datum], "MM/YYYY")
@@ -40,7 +40,7 @@ IF(USERSETTINGS(Sprache) = "Deutsch", "Nettopreis", "Net price"))
 
 Cette expression affiche **le libellé du prix net dans la bonne langue** selon ce que l’utilisateur a choisi dans les paramètres de langue.  
 Cela permet d’avoir une interface **multilingue** (ici **allemand/anglais**, avec l’anglais comme valeur par défaut).
-### <u>Code pour le transfert de photos</u>
+# <u>Code pour le transfert de photos</u>
 
 ~~~
 IF(ISNOTBLANK([Machine].[Photo 1]), "Photos:","")
@@ -57,7 +57,7 @@ IF(ISNOTBLANK([Comment]), "Comment:", "")
 Cette expression affiche le mot `"Comment:"` uniquement si un commentaire est présent dans le champ `[Comment]`.  
 Sinon, elle n’affiche rien.
 
-### <u>Code pour le transfert de la charge</u>
+# <u>Code pour le transfert de la charge</u>
 ~~~
 [Machine].[Charge]
 ~~~
