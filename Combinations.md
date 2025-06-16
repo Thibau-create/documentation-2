@@ -48,6 +48,7 @@ On à donc:
 Nous avons également un bandeau en haut de la description
 
 ![[petit bandeau combination.png]]
+![](petitbandeaucombination.png)
 
 On y retrouve:
 - La charge (501779)
