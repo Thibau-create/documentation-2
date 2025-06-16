@@ -57,3 +57,10 @@ On y retrouve:
 - Un autre bouton pour aller au cultivateur suivant
 - Un bouton pour agrandir la description 
 - Et enfin un bouton pour fermer la description
+
+La méthode pour faire un lien c'est de mettre *[le nom que tu veux donner](le nom du fichier que tu veux atteindre.md)*
+
+Ce qui donne:
+
+[Cultivator](Cultivator.md)
+
