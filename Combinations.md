@@ -2,7 +2,7 @@
 
 ![](schemachemincombinations.png)
 # Vue Combinations dans appsheet
-![[Capture d’écran 2025-05-14 à 10.08.24.png]]
+
 ![](accueilcombination)
 ~~~ javascript
 AND(
