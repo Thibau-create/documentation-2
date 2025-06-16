@@ -45,12 +45,11 @@ On à donc:
 
 Nous avons également un bandeau en haut de la description
 
-![[petit bandeau combination.png]]
 ![](petitbandeaucombination.png)
 
 On y retrouve:
 - La charge (501779)
-- [[data transfer (lemken)]] (transfert de donnée) 
+- [data transfer] (datatransferlemken)
 - Un bouton pour aller au cultivateur précédent
 - Un autre bouton pour aller au cultivateur suivant
 - Un bouton pour agrandir la description 
