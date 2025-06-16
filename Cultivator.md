@@ -1,9 +1,7 @@
 # Schéma explicatif de Cultivator dans appsheet
-![[Schemachemincultivator.png]]
 ![](schemachemincombinations.png)
 
 # Vue Cultivator dans appsheet
-![[pagedaccueilphoto.png]]
 ![](pagedaccueilphoto.png)
 
 
