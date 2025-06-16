@@ -1,4 +1,5 @@
-![[Capture d’écran 2025-05-13 à 14.49.55.png]]
+
+![](datatransfer.png)
 
 Ce menu sert à envoyer une machine par mail.
 ### <u>Ici on peut voir que l'on a différent champs que l'on peut remplir:</u>
