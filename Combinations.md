@@ -1,5 +1,4 @@
 # Schéma explicatif de Combinations dans appsheet
-![[schémachemincombinations.png]]
 
 ![](schemachemincombinations.png)
 # Vue Combinations dans appsheet
